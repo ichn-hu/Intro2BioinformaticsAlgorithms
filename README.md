@@ -1,6 +1,8 @@
 # Intro2BioinformaticsAlgorithms
 
-COMP130167.01, Introduction to Bioinformatics Algorithms @ Fudan U by Haixu Tang
+COMP130167.01, Introduction to Bioinformatics Algorithms at Fudan University by [Haixu Tang](https://www.informatics.indiana.edu/hatang/) from the University of Indiana.
+
+This course is taught during 2018.07.16 ~ 2018.07.27 as a summer course, and is corresponding to the same course on [coursera](https://www.coursera.org/specializations/bioinformatics).
 
  This repo provides my solution to the problems on rosalind and homework.
 
