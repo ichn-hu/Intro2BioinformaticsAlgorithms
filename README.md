@@ -5,6 +5,9 @@ COMP130167.01, Introduction to Bioinformatics Algorithms at Fudan University by 
 This course is taught during 2018.07.16 ~ 2018.07.27 as a summer course, and is corresponding to the same course on [coursera](https://www.coursera.org/specializations/bioinformatics).
 
  This repo provides my solution to the problems on rosalind and homework.
+ 
+ [[solution](https://github.com/ichn-hu/Intro2BioinformaticsAlgorithms/blob/master/rosalind/solution.py)]
+ 
 
 | Num  | Title                                                        | XP   | Cost | Due Date      | Questions | Solutions |
 | ---- | ------------------------------------------------------------ | ---- | ---- | ------------- | --------- | --------- |
